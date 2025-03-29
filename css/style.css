@@ -17,7 +17,6 @@
 body {
     font-family: var(--poppins);
     background-color: #EFF1F7;
-    ;
 }
 
 .container {
@@ -96,7 +95,6 @@ a {
 .header-hero {
     margin-top: 146px;
     display: flex;
-
     width: 100%;
 }
 
@@ -112,7 +110,6 @@ a {
     font-size: 80px;
     font-weight: 700;
     line-height: 90px;
-    /* 112.5% */
     letter-spacing: -2px;
 }
 
@@ -123,7 +120,6 @@ a {
     font-size: 22px;
     font-weight: 500;
     line-height: 36px;
-    /* 163.636% */
     letter-spacing: 0.15px;
     margin-top: 5px;
     align-items: start;
@@ -192,7 +188,6 @@ a {
     font-size: 20px;
     font-weight: 500;
     line-height: 36px;
-    /* 180% */
     letter-spacing: 0.15px;
     z-index: 1;
 }
@@ -280,7 +275,6 @@ a {
     font-size: 15px;
     font-weight: 500;
     line-height: 26px;
-    /* 173.333% */
 }
 
 .line {
@@ -325,7 +319,6 @@ a {
     font-size: 40px;
     font-weight: 700;
     line-height: 48px;
-    /* 120% */
     letter-spacing: -1px;
     margin-bottom: 32px;
 }
@@ -398,45 +391,6 @@ a {
     height: 24px;
     color: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
